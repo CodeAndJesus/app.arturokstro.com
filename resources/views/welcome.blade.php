@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Github
+                    Hola Mundo
                 </div>
 
                 <div class="links">
